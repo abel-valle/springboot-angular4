@@ -32,7 +32,7 @@ Se puede implementar en dos arquitecturas:
 
 ## Ejecución de las aplicaciones
 1. Para ejecutar el proyecto **anguar4**, entrar a la carpeta del proyecto y ejecutar: `npm start`
-1. Para ejecutar **springboot**, entrat a la carpeta del proyecto y ejecutar:
+1. Para ejecutar **springboot**, entrar a la carpeta del proyecto y ejecutar:
    1. Construir: `mvn clean install`
    1. Ejecutar: `mvn spring-boot:run`
 
