@@ -15,10 +15,17 @@ Se puede implementar en dos arquitecturas:
 ## Requerimientos
 * Java 1.8
 * Maven 3.3.9
-* Spring Tool Suite – Version 3.9.0.RELEASE
-* Spring Boot: RELEASE
+* Spring Tool Suite: 3.9.0.RELEASE
+* Spring Boot: 1.5.6 RELEASE
 * Angular 4
-* Node.js
+* Node.js: 6.11.1
+
+## Ambientación de entorno de desarrollo
+1. Se asume tener instalado JDK 1.8
+1. Instalar Node.js para Angular
+   * Linux: [Instalación de Node.js](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04)
+   * Windows: Descargar el instalador y ejecutar: [nodejs.org/es/download](https://nodejs.org/es/download/)
+   1. Verificar en una consola: `node -v & npm -v`
 
 ## Referencia
 [How to integrate Angular 4 with SpringBoot RestApi using SpringToolSuite](http://javasampleapproach.com/java-integration/integrate-angular-4-springboot-web-app-springtoolsuite)
