@@ -8,8 +8,8 @@ El proyecto está separado en dos:
 El proyecto **springboot** funciona como contenedor del proyecto **angular4**.
 El proyecto **angular4** se puede ejecutar de manera independiente a **springboot**.
 
-Se puede implementar en dos aqrquitecturas:
-* Proyectos Separados (se aplica en éste prototipo)
+Se puede implementar en dos arquitecturas:
+* Proyectos separados (se aplica en éste prototipo)
 * En el mismo proyecto
 
 ## Requerimientos
