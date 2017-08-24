@@ -37,7 +37,6 @@ Se puede implementar en dos arquitecturas:
    1. Ejecutar: `mvn spring-boot:run`
 
 
-## Referencia
+## Referencias
 [How to integrate Angular 4 with SpringBoot RestApi using SpringToolSuite](http://javasampleapproach.com/java-integration/integrate-angular-4-springboot-web-app-springtoolsuite)
-
-
+[Angular-2 and Spring Boot: Development Environment Setup for Full Stack Developers](https://dzone.com/articles/angular-2-and-spring-boot-development-environment)
